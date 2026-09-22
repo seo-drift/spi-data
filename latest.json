@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "data": {
-    "version": "2026-08-24-light",
-    "url": "https://raw.githubusercontent.com/seo-drift/spi-data/main/spi_2026-08-24-light.json.gz",
-    "bytes": 2053231,
-    "sha256": "0d3b7d322cf8ec313655c2d5747a080bf40e2c81baffd645c6a2b2c3044d183b",
+    "version": "2026-08-24-ext",
+    "url": "https://raw.githubusercontent.com/seo-drift/spi-data/main/spi_2026-08-24-ext.json.gz",
+    "bytes": 3142508,
+    "sha256": "39c0026485f74276794081bb488e86b1ff1da251c0f563b2f2cb90acf15f1999",
     "rows": 47208,
-    "built_at": "2026-09-21"
+    "built_at": "2026-09-22"
   },
   "config": {
     "version": 0,
     "adapters": {}
   },
   "min_extension": "1.0.0",
-  "message": "Публичный датасет @seo_drift (donors_light) — часть колонок внутреннего экспорта пока не заполняется (is_nofollow/noindex/затёртость/тренд DR)."
+  "message": "Датасет @seo_drift для расширения (donors_full) — полный разбор keys.so, шире публичного donors_light."
 }
