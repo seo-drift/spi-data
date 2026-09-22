@@ -3,8 +3,8 @@
   "data": {
     "version": "2026-08-24-ext",
     "url": "https://raw.githubusercontent.com/seo-drift/spi-data/main/spi_2026-08-24-ext.json.gz",
-    "bytes": 3142508,
-    "sha256": "39c0026485f74276794081bb488e86b1ff1da251c0f563b2f2cb90acf15f1999",
+    "bytes": 3202409,
+    "sha256": "26c685afb72b62e71366581a0c32827966002efba08b362801b48b32871ba711",
     "rows": 47208,
     "built_at": "2026-09-22"
   },
