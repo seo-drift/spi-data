@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "data": {
-    "version": "2026-08-24-ext",
-    "url": "https://raw.githubusercontent.com/seo-drift/spi-data/main/spi_2026-08-24-ext.json.gz",
+    "version": "2026-08-24-ext2",
+    "url": "https://raw.githubusercontent.com/seo-drift/spi-data/main/spi_2026-08-24-ext2.json.gz",
     "bytes": 3202409,
-    "sha256": "26c685afb72b62e71366581a0c32827966002efba08b362801b48b32871ba711",
+    "sha256": "d2ac198ce293b591c2f97e216d7c7fa4875bc72fe006776fd55bda06e7974c63",
     "rows": 47208,
-    "built_at": "2026-09-22"
+    "built_at": "2026-09-23"
   },
   "config": {
     "version": 0,
