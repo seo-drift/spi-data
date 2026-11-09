@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "data": {
-    "version": "2026-10-07-ext2",
-    "url": "https://raw.githubusercontent.com/seo-drift/spi-data/main/spi_2026-10-07-ext2.json.gz",
-    "bytes": 3564642,
-    "sha256": "a6266ff0618727ba07985a0242a7fa348c60095e25a737f0939d44396557554e",
-    "rows": 47376,
-    "built_at": "2026-10-11"
+    "version": "2026-11-08-ext",
+    "url": "https://raw.githubusercontent.com/seo-drift/spi-data/main/spi_2026-11-08-ext.json.gz",
+    "bytes": 4562198,
+    "sha256": "5c3bdbc778d8759c21e3c28fe6d774c5bc18a5c08d82271e2ff520b6116b069a",
+    "rows": 60792,
+    "built_at": "2026-11-08"
   },
   "config": {
     "version": 0,
     "adapters": {}
   },
   "min_extension": "1.0.0",
-  "message": "Датасет @seo_drift для расширения (donors_full) — полный разбор keys.so, шире публичного donors_light."
+  "message": "Выпуск 08.11.26: 60 792 домена, новых 14 460. Обновлена методика Drift Score (v2.1): грейд сменился у 10 288 доменов."
 }
